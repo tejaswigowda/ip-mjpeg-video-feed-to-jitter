@@ -1,7 +1,6 @@
-# ip-mjpeg-video-feed-to-jitter
 
 
-## Import Internet camara feed (mjpeg) into jit.pwindow  
+# Import Internet camara feed (mjpeg) into jit.pwindow  
 ### *Mac OS only*
 
 
