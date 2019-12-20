@@ -13,3 +13,9 @@
 
 4. Viola! whatever your camera sees is in a jit.pwindow.
   <img src='screenshot.png'>
+
+
+## Footnote
+Install Syphon Library for MAX-MSP 
+1. Download latest version https://github.com/Syphon/Jitter/releases/
+2. Move Folder `Syphon` to `~/Documents/Max [version]/Packages/`.
