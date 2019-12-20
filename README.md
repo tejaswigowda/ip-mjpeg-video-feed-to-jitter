@@ -1,10 +1,11 @@
 # ip-mjpeg-video-feed-to-jitter
 
 
-## Import ip camara feed (mjpeg) into jit.pwindow  *Mac OS only*
+## Import Internet camara feed (mjpeg) into jit.pwindow  
+### *Mac OS only*
 
 
-### Steps
+## Steps
 1. Download syphon-camera: https://code.google.com/archive/p/syphon-camera/downloads
 2. Open Syphon Net Camera, enter http address of mjpeg stream (if using TTGO Camera see https://foxdeniot.github.io/camera-2019/#mjpeg-stream).
   <img src='snc.png'>
