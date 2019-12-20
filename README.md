@@ -19,3 +19,6 @@
 Install Syphon Library for MAX-MSP 
 1. Download latest version https://github.com/Syphon/Jitter/releases/
 2. Move Folder `Syphon` to `~/Documents/Max [version]/Packages/`.
+
+
+<script>$(".credits.right").remove()</script>
