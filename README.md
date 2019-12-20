@@ -21,4 +21,3 @@ Install Syphon Library for MAX-MSP
 2. Move Folder `Syphon` to `~/Documents/Max [version]/Packages/`.
 
 
-<script>$(".credits.right").remove()</script>
