@@ -1,6 +1,6 @@
 
 
-# HOWTO import Internet camara feed (mjpeg) into jit.pwindow  
+# HOWTO import http camara feed (mjpeg) into jit.pwindow  
 ### (*Mac OS only*)
 
 
